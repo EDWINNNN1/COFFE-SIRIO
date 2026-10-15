@@ -5,7 +5,7 @@
 const PRODUCTOS = [
   {
     id: 0,
-    nombre: "Frappé Sirio",
+    nombre: "frappe-img",
     precio: "$3.50",
     img: "imagenes/imagen13.png",
     descripcionLarga: "Delicioso Frappé preparado con café, crema y un irresistible toque a chocolate, con sus caramelos y chocolates incluidos."
