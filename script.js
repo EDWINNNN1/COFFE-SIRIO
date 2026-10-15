@@ -7,63 +7,63 @@ const PRODUCTOS = [
     id: 0,
     nombre: "Frappé Sirio",
     precio: "$3.50",
-    img: "imagen13.png",
+    img: "imagenes/imagen13.png",
     descripcionLarga: "Delicioso Frappé preparado con café, crema y un irresistible toque a chocolate, con sus caramelos y chocolates incluidos."
   },
   {
     id: 1,
     nombre: "Choco Fudge Cake",
     precio: "$3.50",
-    img: "3.jpg",
+    img: "imagenes/3.jpg",
     descripcionLarga: "Porción de pastel de chocolate húmedo, horneado con cacao intenso y decorado con rulos de chocolate. El acompañamiento perfecto para un espresso cargado."
   },
   {
     id: 2,
     nombre: "KitKat Latte Cap",
     precio: "$3.95",
-    img: "2.jpeg",
+    img: "imagenes/2.jpg",
     descripcionLarga: "Cremoso cappuccino con arte latte hecho a mano, servido junto a un chocolate KitKat. Una combinación clásica de café y crujiente dulzura."
   },
   {
     id: 3,
     nombre: "Chocolate Donut",
     precio: "$1.75",
-    img: "5.jpg",
+    img: "imagenes/5.jpg",
     descripcionLarga: "Suave dona esponjosa cubierta con chocolate y trocitos de maní tostado. Ideal para acompañar cualquier bebida de nuestro menú."
   },
   {
     id: 4,
     nombre: "Frozen",
     precio: "$2.95",
-    img: "6.jpg",
+    img: "imagenes/6.jpg",
     descripcionLarga: "Bebida fría y cremosa a base de café, coronada con crema batida y un generoso toque de chocolate. Perfecta para los días calurosos."
   },
   {
     id: 5,
     nombre: "Croissant de Jamón y Queso",
     precio: "$1.25",
-    img: "7.jpg",
+    img: "imagenes/7.jpg",
     descripcionLarga: "Croissant recién horneado, hojaldrado y relleno con jamón y queso derretido. Una opción salada para acompañar tu café de la mañana."
   },
   {
     id: 6,
     nombre: "Waffle Frutal",
     precio: "$1.50",
-    img: "8.jpg",
+    img: "imagenes/8.jpg",
     descripcionLarga: "Waffle crujiente por fuera y suave por dentro, servido con fruta fresca de temporada, crema y un toque de chocolate."
   },
   {
     id: 7,
     nombre: "Tiramisú Clásico",
     precio: "$3.50",
-    img: "9.jpg",
+    img: "imagenes/9.jpg",
     descripcionLarga: "Postre italiano tradicional elaborado con capas de bizcocho embebido en café, crema de mascarpone y cacao espolvoreado."
   },
   {
     id: 8,
     nombre: "Muffin Triple Chocolate",
     precio: "$2.50",
-    img: "10.jpg",
+    img: "imagenes/10.jpg",
     descripcionLarga: "Muffin denso y húmedo de chocolate, cubierto con chispas de chocolate blanco, con leche y oscuro. Para los amantes del cacao."
   }
 ];
