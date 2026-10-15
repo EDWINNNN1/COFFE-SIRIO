@@ -7,14 +7,14 @@ const PRODUCTOS = [
     id: 0,
     nombre: "Frappé Sirio",
     precio: "$3.50",
-    img: "2.png",
+    img: "imagen13.png",
     descripcionLarga: "Delicioso Frappé preparado con café, crema y un irresistible toque a chocolate, con sus caramelos y chocolates incluidos."
   },
   {
     id: 1,
     nombre: "Choco Fudge Cake",
     precio: "$3.50",
-    img: "imagen13.png",
+    img: "3.jpg",
     descripcionLarga: "Porción de pastel de chocolate húmedo, horneado con cacao intenso y decorado con rulos de chocolate. El acompañamiento perfecto para un espresso cargado."
   },
   {
